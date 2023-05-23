@@ -1,11 +1,35 @@
-<p align="center"><img src='https://www.siliconrepublic.com/wp-content/uploads/2014/12/201307/datascientist.jpg'></p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47eh82iqs40au6skc7r5czplr3zbwejc7jizbxwmwc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 <div id="header" align="center">
   <h1>👋 Hi there, I’m Pavel</h1>
   <h3>Я будущий Senior Data Scientist</h3>
 
 
+__________________________________________________________________________________________________________________________
 
+<div id="header" align="left">
+  <h2>Чем владею:</h2>
+  <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Python.svg" title="python"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Scikit-learn.svg" title="scikit-learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
+
+<div id="header" align="left">
+  <h2>Что изучаю:</h2> 
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  
+  
+ 
+  
+
+ 
+  
 <!---
 PavelAlexee/PavelAlexee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
