@@ -1,5 +1,7 @@
-# **👋 Hi there, I’m Pavel**
-**Я перспективный Data Scientist**
+<div id="header" align="center">
+  <h1>👋 Hi there, I’m Pavel</h1>
+  <h3>Я будущий Senior Data Scientist</h3>
+
 
 
 <!---
