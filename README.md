@@ -5,8 +5,17 @@
 <div id="header" align="center">
   <h1>👋 Hi there, I’m Pavel</h1>
   <h3>Я будущий Senior Data Scientist</h3>
+<br> 
+  
+<div id="header" align="left">  
+  
+- 🌱 Прошёл обучение в:   **РЭУ им. Г.В. Плеханова**
 
+- 👨‍💻 Мои проекты: [Проект]([https://github.com/SirRizzer?tab=repositories](https://github.com/PavelAlexee/Data_science_projects))
 
+- 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br> 
+ <br> 
+<p align="center"> <a href=>Сертификаты о прохождении курсов</a></p>
 __________________________________________________________________________________________________________________________
 
 <div id="header" align="left">
