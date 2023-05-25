@@ -11,7 +11,7 @@
   
 - 🌱 Прошёл обучение в:   **РЭУ им. Г.В. Плеханова**
 
-- 👨‍💻 Мои проекты: [Проект](https://github.com/PavelAlexee/Data_science_projects)
+- 👨‍💻 Мои проекты: [Проекты](https://github.com/PavelAlexee/Data_science_projects)
 
 - 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br> 
  <br> 
