@@ -15,8 +15,7 @@
 
 - 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br> 
  <br> 
-<p align="center"> <a href=>[Дипломы и сертификаты о прохождении курсов](https://github.com/PavelAlexee/diplomas-certificates)</a></p>
-  
+<p align="center"> <a href="https://github.com/PavelAlexee/diplomas-certificates">Дипломы и сертификаты о прохождении курсов</a></p>  
 __________________________________________________________________________________________________________________________
 
 <div id="header" align="left">
