@@ -14,7 +14,8 @@
 
 - 👨‍💻 Мои проекты: [Проекты](https://github.com/PavelAlexee/Data_science_projects), [Работа с данными](https://github.com/PavelAlexee/data_processing)
 
-- 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br> 
+- 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br>
+<br> **• telegram: @pavel_error**<br> 
  <br> 
 <p align="center"> <a href="https://github.com/PavelAlexee/diplomas-certificates">Дипломы и сертификаты о прохождении курсов</a></p>  
 __________________________________________________________________________________________________________________________
