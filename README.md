@@ -9,8 +9,6 @@
   
 <div id="header" align="left">  
   
-
-- 💬 Связаться со мной:
   
 <br> **• Email: pavelps41980@gmail.com**<br>
 <br> **• telegram: [@pavel_error](https://t.me/pavel_error)**<br> 
@@ -18,20 +16,6 @@
 
 __________________________________________________________________________________________________________________________
 
-<div id="header" align="left">
-  <h2>Чем владею:</h2>
-  <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Python.svg" title="python"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Scikit-learn.svg" title="scikit-learn"/>&nbsp;
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-
-<div id="header" align="left">
-  <h2>Что изучаю:</h2> 
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   
   
  
