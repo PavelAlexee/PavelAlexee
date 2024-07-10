@@ -13,7 +13,7 @@
 - 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br>
 <br> **• telegram: [@pavel_error](https://t.me/pavel_error)**<br> 
  <br> 
-<p align="center"> <a href="https://github.com/PavelAlexee/diplomas-certificates">Дипломы и сертификаты о прохождении курсов</a></p>  
+
 __________________________________________________________________________________________________________________________
 
 <div id="header" align="left">
