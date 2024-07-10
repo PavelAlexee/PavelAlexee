@@ -10,7 +10,9 @@
 <div id="header" align="left">  
   
 
-- 💬 Связаться со мной:<br> **• Email: pavelps41980@gmail.com**<br>
+- 💬 Связаться со мной:
+  
+<br> **• Email: pavelps41980@gmail.com**<br>
 <br> **• telegram: [@pavel_error](https://t.me/pavel_error)**<br> 
  <br> 
 
